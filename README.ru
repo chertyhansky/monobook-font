@@ -36,7 +36,7 @@ II. Установка
 
 III. Лицензия
 Monobook font распространяется в соответствии с GNU General Public License (GPL)
-version 3. Подробнее смотрите в COPYING.
+version 3. Подробнее смотрите в LICENSE.
 
 IV. Контакты
-<dclxvi at xakep dot ru>
+<akakychert@gmail.com>
